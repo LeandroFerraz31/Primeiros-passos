@@ -3,7 +3,7 @@ package TrabalhoUnivates;
 public class matriz {
      public static void main (String[] args)
   {
-    //Declara uma matriz de 3 linhas e 3 colunas
+    //Declara uma matriz de 10 linhas e 10 colunas
     int matriz[][] = new int[10][10];
     int contador = 1; //contador
     
